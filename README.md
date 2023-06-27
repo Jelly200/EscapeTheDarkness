@@ -1,2 +1,2 @@
 # EscapeTheDarkness
-The game of Escape the darkness
+The game and the webbsite for The Escape the darkness
